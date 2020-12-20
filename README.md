@@ -25,3 +25,6 @@
 
 
 [레이더 반사 망을 이용한 무인 항공기 기만 전술 운용 방법_국방부_14호_강민준_전편.pdf](https://github.com/back582/Operating-Methods-of-Radar-Reflection-Web/files/5720622/_._14._._.pdf)
+
+
+![1](https://user-images.githubusercontent.com/17943248/102707199-40109900-42dc-11eb-9436-02160b0c9f53.png)
