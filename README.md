@@ -19,7 +19,7 @@
  - 알루미늄을 이용한 레이더 방사망을 구성하여 무인 한공기에 적용한 기만전술 알고리즘 연구 논문
 
 ##### 개발환경
- - Windows, CPP, VScode, MFC, MATLAB, Socket.io
+ - Windows, CPP, VScode, MFC, MATLAB, Socket.io, Latax
 
 ##### 상세내용
  - 기존 금속 대비 95%의 레이더 반사율을 갖는 알루미늄 활용
